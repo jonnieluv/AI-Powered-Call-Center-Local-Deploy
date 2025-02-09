@@ -1,4 +1,4 @@
-# AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
+![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)# AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
 AI-enhanced call center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls.
 
 # 😄 We firmly believe that only when the software is used can it bring value to users and allow itself to iterate!
@@ -85,4 +85,13 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 3. Call record push:	Push real-time data after hanging up (incoming/outgoing call time, queue time, main/called ringing time, answer time, hang up time, recording time, call duration, call duration, etc.)
 ## Others
 1. Cluster management:	Support FreeSWITCH cluster
-2. Multi-database support:	MySQL、PostgreSQL、SQLServer、Oracle![image](https://github.com/user-attachments/assets/41bd6de8-5695-4866-a2f3-12d4941e5eb5)
+2. Multi-database support:	MySQL、PostgreSQL、SQLServer、Oracle!
+
+# Features List screenshot
+![image](https://github.com/user-attachments/assets/a6fd5d47-f2d9-407a-9d04-9be583d4c6de)
+![image](https://github.com/user-attachments/assets/a71260b4-9e13-474b-ae86-c867dc396ac1)
+![image](https://github.com/user-attachments/assets/7ca1c15a-1239-4207-858e-6cd3304f1f85)
+
+
+
+   
