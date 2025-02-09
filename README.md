@@ -21,7 +21,7 @@ http://118.25.192.13:8822/cc
 http://118.25.192.13:80
  (demo/123456)
 
-## Development language: Java Python
+## Development language: Java+Python+VUE
 # Overview of the architecture of the LLM Call Center
 ![image](https://github.com/user-attachments/assets/25a232ec-4053-4097-b5db-09052a0cfcf7)
 
