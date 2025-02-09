@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)# AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
+# AI-Powered-Call-Center-Local-Deploy:FreeSWITCH+Java+SpringBoot+VUE
 AI-enhanced call center system, based on FreeSWITCH, Java, Python, SpringBoot, VUE and other technology stacks, can be connected to mainstream TTS, ASR products, can be deployed locally, can build automatic outbound call system, automatic inbound call robot system, agent assistance system;Can work with online customer service and work order system to realize unified queuing of text messages and voice calls.
 
 # 😄 We firmly believe that only when the software is used can it bring value to users and allow itself to iterate!
@@ -91,6 +91,7 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 ![image](https://github.com/user-attachments/assets/a6fd5d47-f2d9-407a-9d04-9be583d4c6de)
 ![image](https://github.com/user-attachments/assets/a71260b4-9e13-474b-ae86-c867dc396ac1)
 ![image](https://github.com/user-attachments/assets/63659ce3-b3f7-4055-a125-4a26ef8deb6d)
+![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)
 
 
 
