@@ -6,6 +6,8 @@ AI-enhanced call center system, based on FreeSWITCH, Java, Python, SpringBoot, V
 
 # Our goal
 Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems! ! !
+# Overview of the architecture of the LLM Call Center
+![image](https://github.com/user-attachments/assets/25a232ec-4053-4097-b5db-09052a0cfcf7)
 # Features List
 
 ## Connect with telephone operator
@@ -91,6 +93,8 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 # Features List screenshot
 ![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)
 ![image](https://github.com/user-attachments/assets/ca05d14b-64f3-411f-9729-715f94f2c3b7)
+
+
 
 
 
