@@ -88,10 +88,9 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 2. Multi-database support:	MySQL、PostgreSQL、SQLServer、Oracle!
 
 # Features List screenshot
-![image](https://github.com/user-attachments/assets/a6fd5d47-f2d9-407a-9d04-9be583d4c6de)
-![image](https://github.com/user-attachments/assets/a71260b4-9e13-474b-ae86-c867dc396ac1)
-![image](https://github.com/user-attachments/assets/63659ce3-b3f7-4055-a125-4a26ef8deb6d)
 ![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)
+![image](https://github.com/user-attachments/assets/63659ce3-b3f7-4055-a125-4a26ef8deb6d)
+
 
 
 
