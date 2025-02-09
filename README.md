@@ -6,8 +6,46 @@ AI-enhanced call center system, based on FreeSWITCH, Java, Python, SpringBoot, V
 
 # Our goal
 Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems! ! !
+## 📫 How to reach us:
+- 官方WeChat:freeipcc
+- Skype：https://join.skype.com/invite/rVbQH1igkQwV
+- Skype UserID：live:.cid.fedb411de91d9b
+- Email:leehear@gmail.com 
+
+## 2025.02.09 latest demo link enjoy😄:
+1. Telephone/online customer service:
+http://118.25.192.13:8822/cc
+ (demo123/demo123@Abc)
+ 
+2. Work order:
+http://118.25.192.13:80
+ (demo/123456)
+
+## Development language: Java Python
 # Overview of the architecture of the LLM Call Center
 ![image](https://github.com/user-attachments/assets/25a232ec-4053-4097-b5db-09052a0cfcf7)
+
+# FreeIPCC's vision and basic functions
+
+## Vision:
+Our vision is to create an open, flexible and powerful open source call center solution that enables global enterprises and organizations, regardless of size, to easily build and operate their own customer service systems.
+
+We believe that by sharing source code, promoting technological innovation and collaboration, we can break the barriers of traditional call centers and benefit every developer, business owner and even end user.
+
+Our goal is not just to provide a tool, but to build an ecosystem that allows users from different backgrounds and different needs to jointly explore, customize and optimize the functions and experience of the call center, and ultimately promote the progress and development of the entire customer service industry!
+
+## Basic functions:
+1. Multi-channel access: Supports multiple customer communication channels such as phone, SMS, social media, email, web chat, etc., to achieve seamless docking and unified management of customer needs.
+2. Intelligent routing: Based on preset rules or AI algorithms, automatically assign customer requests to the most appropriate customer service representative or self-service module to ensure that customer issues are handled promptly and professionally.
+3. IVR (Interactive Voice Response) System: Provides flexible voice menu design to guide customers to complete common operations such as inquiries and repairs by themselves, reduce the pressure on manual seats, and improve service efficiency.
+4. Seat Management: Provides comprehensive seat management tools, including real-time monitoring, recording playback, work order management, performance statistics, etc., to help managers optimize team operations and improve service quality.
+5. CRM Integration: Supports seamless integration with mainstream CRM systems, automatically synchronizes customer information, realizes comprehensive integration and utilization of customer data, and provides data support for personalized services.
+6. Data Analysis and Reports: Built-in powerful data analysis engine, automatically generates various service reports, such as call volume statistics, customer satisfaction surveys, service efficiency analysis, etc., to provide data basis for decision-making.
+7. Open API and plug-in extension: Provides rich API interfaces to support third-party developers to expand functions or customize development based on our platform. At the same time, we will also actively maintain a plug-in market and include high-quality plug-ins for users to choose from.
+8. Cloud-native architecture: Adopting cloud-native architecture design, it supports rapid deployment, elastic expansion and automatic operation and maintenance, reduces users' IT costs and maintenance difficulties, and ensures high availability and security of the system.
+9. Highly configurable: Provides an intuitive configuration interface, allowing users to adjust system parameters and optimize workflows according to their needs without programming, and achieve rapid customization and deployment.
+10. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, propose requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service! 
+    
 # Features List
 
 ## Connect with telephone operator
