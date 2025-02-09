@@ -89,7 +89,8 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 
 # Features List screenshot
 ![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)
-![image](https://github.com/user-attachments/assets/63659ce3-b3f7-4055-a125-4a26ef8deb6d)
+![image](https://github.com/user-attachments/assets/ca05d14b-64f3-411f-9729-715f94f2c3b7)
+
 
 
 
