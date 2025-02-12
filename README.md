@@ -33,7 +33,7 @@ Our vision is to create an open, flexible and powerful open source call center s
 
 We believe that by sharing source code, promoting technological innovation and collaboration, we can break the barriers of traditional call centers and benefit every developer, business owner and even end user.
 
-Our goal is not just to provide a tool, but to build an ecosystem that allows users from different backgrounds and different needs to jointly explore, customize and optimize the functions and experience of the call center, and ultimately promote the progress and development of the entire customer service industry!
+Our goal is not just to provide a tool, but to build an ecosystem that allows users from different backgrounds and different needs to jointly explore, customize and optimize the functions and experience of the call center, and ultimately promote the progress and development of the entire customer service industry!!
 
 ## Basic functions:
 1. Multi-channel access: Supports multiple customer communication channels such as phone, SMS, social media, email, web chat, etc., to achieve seamless docking and unified management of customer needs.
