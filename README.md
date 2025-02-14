@@ -5,7 +5,7 @@ AI-enhanced call center system, AI-Powered contact center system, based on FreeS
 ## 😄Sustainability: It has been continuously iterating since 2014, and the members are very experienced and long-term
 
 # Our goal
-Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems!!!!!!
+Committed to becoming: a global leader in large-model call center systems, large-model inbound robots, large-model outbound robots, and intelligent call center systems!!!
 
 ## 📫 How to reach us:
 - 官方WeChat:freeipcc
