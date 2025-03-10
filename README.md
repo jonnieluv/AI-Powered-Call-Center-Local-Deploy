@@ -135,7 +135,7 @@ Agent selection strategy	Agent selection strategy: longest waiting time, longest
 ![image](https://github.com/user-attachments/assets/ac90112f-311d-4ebb-8206-dff3ae643ee9)
 ![image](https://github.com/user-attachments/assets/ca05d14b-64f3-411f-9729-715f94f2c3b7)
 
-# 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+# 我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 # 附：团队的开源呼叫中心系统FreeAICC（AI Call Center）的愿景与基础功能阐述
 愿景：
 我们的愿景是打造一个开放、灵活且强大的开源呼叫中心解决方案，赋能全球的企业和组织，无论规模大小，都能轻松构建并运营自己的客户服务体系。我们相信，通过共享源代码、促进技术创新与协作，能够打破传统呼叫中心的壁垒，让每一位开发者、企业主乃至终端用户都能从中受益。我们的目标不仅仅是提供一个工具，而是构建一个生态系统，让不同背景、不同需求的用户能够共同探索、定制并优化呼叫中心的功能与体验，最终推动整个客户服务行业的进步与发展！
